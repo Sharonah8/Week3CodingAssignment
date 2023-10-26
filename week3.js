@@ -3,8 +3,8 @@
 // let it print out 45 as a number and not as a string.
 // const number = “45”.
 
-const number = Number("45");
-console.log(number);
+const number = "45";
+console.log(Number(number));
 
 
 // 2.Copy the codes  Print the sum of numbers without removing any part of the code, 
